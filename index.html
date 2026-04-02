@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beyza Türkan & Serdar Düğün Davetiyesi</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="envelope-wrapper" id="envelopeScreen">
+    <div class="envelope-container" id="envelope">
+        <div class="envelope-back"></div>
+        
+        <div class="envelope-inner"></div>
+
+        <div class="letter-card">
+            <div class="letter-content">
+                <p>Beyza Türkan & Serdar</p>
+                <span>08.04.2026</span>
+            </div>
+        </div>
+
+        <div class="envelope-left"></div>
+        <div class="envelope-right"></div>
+        <div class="envelope-bottom"></div>
+
+        <div class="top-flap"></div>
+
+        <div class="seal" onclick="openInvite()">
+            <img src="seal.png" alt="Mührü Aç">
+        </div>
+    </div>
+    <div class="open-instruction">Açmak için Mührü Tıklayın</div>
+</div>
+
+<div class="main" id="main">
+    
+    <div class="petals-container" id="petalsContainer"></div>
+
+   
+
+   <div class="invite-content">
+    <h1 class="names">Beyza Türkan & Serdar</h1>
+    <p class="intro">Baharın gelişiyle başlayan bu güzel yolculukta...</p>
+    
+    <div class="divider"></div>
+    
+    <p class="date">8 NİSAN 2026</p>
+    <p class="time">SAAT: 20:00 Çarşamba</p>
+    <p class="location">Şahinbey Plaza Güneykent Mah. 102283 Nolu Cad, Gaziantep</p>
+    
+    <div class="countdown-container">
+        <div class="countdown-item">
+            <span id="days">00</span>
+            <p>GÜN</p>
+        </div>
+        <div class="countdown-item">
+            <span id="hours">00</span>
+            <p>SAAT</p>
+        </div>
+        <div class="countdown-item">
+            <span id="minutes">00</span>
+            <p>DK</p>
+        </div>
+        <div class="countdown-item">
+            <span id="seconds">00</span>
+            <p>SN</p>
+        </div>
+    </div>
+</div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
