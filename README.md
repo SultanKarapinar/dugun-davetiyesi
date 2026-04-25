@@ -5,7 +5,7 @@ Bu proje, modern ve şık bir **dijital düğün davetiyesi** oluşturmak amacı
 ---
 
 ## 🎥 Demo Video
-[(video burada)](https://youtu.be/k7PVwmHcuMc)
+[(https://youtu.be/k7PVwmHcuMc)](https://youtu.be/NbrIW-b0R_A)
 
 ---
 ## 🚀 Özellikler
