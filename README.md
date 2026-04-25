@@ -4,6 +4,10 @@ Bu proje, modern ve şık bir **dijital düğün davetiyesi** oluşturmak amacı
 
 ---
 
+## 🎥 Demo Video
+[(video burada)](https://youtu.be/k7PVwmHcuMc)
+
+---
 ## 🚀 Özellikler
 
 * 📅 Düğün tarihi ve saat bilgisi gösterimi
